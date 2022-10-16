@@ -1,3 +1,6 @@
+--Viewing the data tables
+
+
 SELECT *
 FROM Project_Covid..Covid_Deaths
 ORDER BY 3,4;
